@@ -106,7 +106,7 @@ html,body{
 }
 @media (min-width: 1024px){}
 nav.navbar.bootsnav.no-background {
-    background-color: #fff;
+    background-color: #fff; //here
     border: none;
 }
 
@@ -200,7 +200,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #717eef;}
     content: " ";
     top:0;
     left:0;
-    background:rgba(31,44,108,.65);
+    background:rgba(0,0,0,.4);
     width:100%;
     height:100%;
 }
