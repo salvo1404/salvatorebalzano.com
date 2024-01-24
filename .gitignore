@@ -79,3 +79,4 @@ fabric.properties
 # DS Store
 .DS_Store
 assets/.DS_Store
+.idea/vcs.xml
